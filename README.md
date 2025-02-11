@@ -1,2 +1,5 @@
 # PDAFT-AMD
-This version of Project Diva AFT is included with an AMD Patch to make the game compatible with AMD Graphics Card 22.7.1+
+This version of Project Diva AFT has PD Loader Ready with an AMD GPU Patch to make it compatible with higher versions.
+Mix Edition/English Pack Included!
+Version: AMD - 22.7.1+
+Version: PDAFT - 7.10.00
